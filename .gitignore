@@ -1,0 +1,7 @@
+env
+venv
+.vs
+.idea
+.idea/.gitignore
+.env
+__pychache__
